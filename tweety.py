@@ -3,7 +3,7 @@ import time
 # from keys import *
 CONSUMER_KEY = 'uoDZLIaIAa4oQJlVghW7moAqv'
 CONSUMER_SECRET = 'qJfN3WS2szfjgl0hG6hyC9CmUpZxqb4ZlPiOrTFmLm5DSNkm95'
-ACCESS_KEY = '1003671764801449984-uTaDkzykq8P25qaBxGJDThcQTpCQed'
+ACCESS_KEY = '1003671764801449984-uTaDkzykq8P25qaBxGJDThcQTpCQed'                       #//can be accessesd through twitter devloper account
 ACCESS_SECRET = 'I8Y9nnwlUWIeXmvCIlHIvnKHgs0mL5ygSBOv0fIXEUYfO'
 
 auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
